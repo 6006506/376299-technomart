@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/23/user/376299).
-* Наставник: Александр Уразаев](https://htmlacademy.ru/profile/urazaev).
+* Студент: [Игорь Деменчук](https://up.htmlacademy.ru/htmlcss/23/user/376299).
+* Наставник: [Александр Уразаев](https://htmlacademy.ru/profile/urazaev).
 
 ---
 
